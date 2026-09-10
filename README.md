@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Quinn (@quinndata782) 
 
-<!--
-**quinndata782/quinndata782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Day job: Data Analyst at Data Insights in Austin, turning chaotic business metrics into clean reports and queries. Off-hours: messing around in Jupyter notebooks with local data sets.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- Analyzing product usage and building automated reporting workflows.
+- Moving workflows from slow Pandas pipelines to DuckDB.
+- Writing small CLI tools to automate tedious spreadsheet work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily tools:
+`Python` `SQL` `Pandas` `DuckDB` `NumPy` `Jupyter` `PostgreSQL` `Git`
+
+#### Connect:
+- LinkedIn: linkedin.com/in/quinndata782
+- Email: quinn.data.workspace@gmail.com
